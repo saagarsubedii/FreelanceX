@@ -1,4 +1,4 @@
-FreelanceX – Freelance Marketplace Platform
+# FreelanceX – MERN Freelance Marketplace Platform
 
 FreelanceX is a MERN stack web application that connects clients with skilled freelancers and helps them collaborate and manage projects online.
 
